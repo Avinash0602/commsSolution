@@ -1,0 +1,40 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "Cloned VPL LeadConversion B2B 102-1",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Cloned VPL 102/Lead Conversion/English",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "Cloned VPL LeadConversion B2B 102-1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Cloned VPL 102/Lead Conversion/English",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "ConfirmationB2C",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Cloned VPL 102/Lead Conversion/English/ConfirmationB2C",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "ConfirmationB2C",
+    "%vlocity_namespace%__ParentElementType__c": "Step",
+    "%vlocity_namespace%__PropertySet__c": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "dataJSON": false,
+        "disOnTplt": false,
+        "label": "ConfirmationMessage",
+        "sanitize": false,
+        "show": null,
+        "text": "<p style=\"font-size: large; color: black;\">Overview:</p>\n<p style=\"font-size: large; color: black;\"></p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9817%;\">Account</td>\n<td style=\"width: 49.9817%;\"><a href=\"../%DRId_Account%\" target=\"_blank\" rel=\"noopener\">%LeadCreation:BusinessInformation:BusinessName%</a></td>\n</tr>\n<tr>\n<td style=\"width: 49.9817%;\">Contact</td>\n<td style=\"width: 49.9817%;\"><a href=\"../%ContactId%\" target=\"_blank\" rel=\"noopener\">%contactName%</a></td>\n</tr>\n<tr>\n<td style=\"width: 49.9817%;\">Opportunity</td>\n<td style=\"width: 49.9817%;\"><a href=\"../%DRId_Opportunity%\" target=\"_blank\" rel=\"noopener\">%OpportunityData:OpportunityName%</a><a href=\"../%ContactId%\" target=\"_blank\" rel=\"noopener\"></a></td>\n</tr>\n<tr>\n<td style=\"width: 49.9817%;\">Task</td>\n<td style=\"width: 49.9817%;\"><a href=\"../%DRId_Task%\" target=\"_blank\" rel=\"noopener\">%DRId_Task%</a></td>\n</tr>\n</tbody>\n</table>",
+        "textKey": ""
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": true,
+    "%vlocity_namespace%__Type__c": "Text Block",
+    "Name": "TextBlock5",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Cloned VPL 102/Lead Conversion/English/TextBlock5"
+}

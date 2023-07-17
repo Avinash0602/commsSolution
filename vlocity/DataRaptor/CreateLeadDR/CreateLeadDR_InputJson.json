@@ -1,0 +1,102 @@
+{
+    "AccountId": "001Dn00000M2yKoIAJ",
+    "BillingAddressInformation:BillingCity": "",
+    "ConfirmationB2C": {
+    },
+    "ContactId": "003Dn00000H0FE2IAN",
+    "ContextId": "00QDn000005sG4rMAE",
+    "DRId_Account": "001Dn00000M2yKoIAJ",
+    "DRId_Lead": "00QDn000005sG4rMAE",
+    "DRId_Opportunity": "006Dn000004eDRXIA2",
+    "DRId_Task": "00TDn00000HXWthMAH",
+    "EnterpriseQuoteRecordType": "Enterprise Quote",
+    "Lead": {
+        "Company": "TestPreview3",
+        "LastName": "TestPreview3",
+        "Status": "New"
+    },
+    "LeadCreation": {
+        "AddressInformation": {
+            "ServiceAddress-Block": {
+                "City": "Pune",
+                "Country": "India",
+                "State": "MH",
+                "Street": "TestPreview3",
+                "Zip": "411021"
+            }
+        },
+        "BillingAddressInformation": {
+            "BillingAddress-Block": {
+                "BillingAddress": null,
+                "BillingCity": "Nagpur",
+                "BillingCountry": "India",
+                "BillingState": "MH",
+                "BillingStreet": "TestPreview3",
+                "BillingZip": "440027"
+            }
+        },
+        "BillingProfile": {
+            "AccountPaymentType": "Prepaid",
+            "BillDeliveryMethod": "eMail",
+            "BillingEmailAddress": "Billingemail@x.com",
+            "BillingFrequency": "Monthly"
+        },
+        "BusinessInformation": {
+            "BusinessName": "TestPreview3",
+            "Industry": "Agriculture"
+        },
+        "ContactInformation": {
+            "Email": "TestPreview3@x.com",
+            "FirstName": "TestPreview3",
+            "LastName": "TestPreview3",
+            "PhoneNumber": "33453453"
+        },
+        "IsBillingAddressSame": false
+    },
+    "OpportunityData": {
+        "CloseDate": "2023-03-30T18:30:00.000Z",
+        "Description": "New Business Opportunity for TestPreview3",
+        "OpportunityName": "New Business Opportunity for TestPreview3",
+        "PriceList": "B2B Pricelist",
+        "QuoteName": "New Business Opportunity for TestPreview3 Quote",
+        "Stage": "Prospecting",
+        "Type": "New Business"
+    },
+    "OpportunityId": "006Dn000004eDRXIA2",
+    "RecordTypeId": "012Dn000001Qva6IAC",
+    "fields": "Id,Name",
+    "inputFields": [
+        {
+            "opportunityid": "006Dn000004eDRXIA2"
+        },
+        {
+            "Name": "New Business Opportunity for TestPreview3 Quote"
+        },
+        {
+            "RecordTypeId": "012Dn000001Qva6IAC"
+        },
+        {
+            "pricelistName": "B2B Pricelist"
+        },
+        {
+            "Status": "Draft"
+        },
+        {
+            "%vlocity_namespace%__DefaultBillingAccountId__c": "00QDn000005sG4rMAE"
+        },
+        {
+            "%vlocity_namespace%__DefaultServiceAccountId__c": "00QDn000005sG4rMAE"
+        }
+    ],
+    "methodName": "createCart",
+    "objectType": "Quote",
+    "omniProcessId": "a33Dn000000DQuMIAW",
+    "subaction": "createQuote",
+    "timeStamp": "2023-03-07T11:42:16.309Z",
+    "userCurrencyCode": "USD",
+    "userId": "005Dn000003MKJBIA4",
+    "userName": "priti_vaidya-26507732636@industryapps.com",
+    "userProfile": "System Administrator",
+    "userTimeZone": "-480",
+    "userTimeZoneName": "America/Los_Angeles"
+}

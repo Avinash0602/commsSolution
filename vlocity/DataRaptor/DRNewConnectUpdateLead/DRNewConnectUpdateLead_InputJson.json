@@ -1,0 +1,227 @@
+{
+    "bundleName": "DRNewConnectUpdateLead",
+    "objectList": {
+        "AccountId": "001Dn00000SKKBrIAP",
+        "ConfirmationB2C": null,
+        "ContactId": "003Dn00000M85xvIAB",
+        "ContextId": "00QDn000008E0RpMAK",
+        "DRId_%vlocity_namespace%__Premises__c": "a40Dn0000004z8wIAA",
+        "DRId_%vlocity_namespace%__ServicePoint__c": "a4vDn0000022Mg8IAE",
+        "DRId_Lead": "00QDn000008E0RpMAK",
+        "Lead": {
+            "Company": "ExistinLeadStatus1",
+            "LastName": "ExistinLeadStatus1",
+            "Lead_Type__c": "Business",
+            "Status": "New"
+        },
+        "LeadCreation": {
+            "AddressInformation": {
+                "ServiceAddress-Block": {
+                    "City": "ExistinLeadStatus1",
+                    "Country": "ExistinLeadStatus1",
+                    "State": "ExistinLeadStatus1",
+                    "Street": "ExistinLeadStatus1 Street",
+                    "Zip": "121212"
+                }
+            },
+            "BillingAddressInformation": null,
+            "BillingProfile": {
+                "AccountPaymentType": "Postpaid",
+                "BillDeliveryMethod": "Electronic Statements Online",
+                "BillingEmailAddress": null,
+                "BillingFrequency": "Monthly"
+            },
+            "BusinessInformation": {
+                "BusinessName": "ExistinLeadStatus1",
+                "Industry": "Agriculture"
+            },
+            "ContactInformation": {
+                "Email": "existinleadstatus1@x.com",
+                "FirstName": "ExistinLeadStatus1",
+                "LastName": "ExistinLeadStatus1",
+                "PhoneNumber": "2313132312"
+            },
+            "IsBillingAddressSame": true
+        },
+        "LeadSelection": {
+            "PleaseSelectAction": "Select Existing Non-Qualified Lead",
+            "ResumeOpportunity": null,
+            "existingLeads": null,
+            "isOppoSelected": false
+        },
+        "OpportunityId": "006Dn000008nddvIAA",
+        "SameBillingCity": "ExistinLeadStatus1",
+        "SameBillingCountry": "ExistinLeadStatus1",
+        "SameBillingState": "ExistinLeadStatus1",
+        "SameBillingStreet": "ExistinLeadStatus1 Street",
+        "SameBillingZip": "121212",
+        "contextId": "00QDn000008E0RpMAK",
+        "newLeads": [
+            {
+                "City": "ExistinLeadStatus1",
+                "Company": "ExistinLeadStatus1",
+                "Country": "ExistinLeadStatus1",
+                "Email": "existinleadstatus1@x.com",
+                "FirstName": "ExistinLeadStatus1",
+                "Id": "00QDn000008E0RaMAK",
+                "Industry": "Agriculture",
+                "LastName": "ExistinLeadStatus1",
+                "LeadStatus": "New",
+                "Name": "ExistinLeadStatus1 ExistinLeadStatus1",
+                "Phone": "2313132312",
+                "PostalCode": "121212",
+                "State": "ExistinLeadStatus1",
+                "Street": "ExistinLeadStatus1 Street"
+            },
+            {
+                "City": "Pune",
+                "Company": "TestExistingLead1",
+                "Country": "India",
+                "Email": "testexistinglead1@gmail.com",
+                "FirstName": "TestExistingLead1",
+                "Id": "00QDn000005ut7FMAQ",
+                "Industry": "Agriculture",
+                "LastName": "TestExistingLead1",
+                "LeadStatus": "New",
+                "Name": "TestExistingLead1 TestExistingLead1",
+                "Phone": "2343442341",
+                "PostalCode": "411021",
+                "State": "MH",
+                "Street": "TestExistingLead1 Street"
+            },
+            {
+                "City": "Pune",
+                "Company": "TestExistingLead",
+                "Country": "India",
+                "Email": "testexistinglead@x.com",
+                "FirstName": "TestExistingLead",
+                "Id": "00QDn000005ut70MAA",
+                "Industry": "Agriculture",
+                "LastName": "TestExistingLead",
+                "LeadStatus": "New",
+                "Name": "TestExistingLead TestExistingLead",
+                "Phone": "2344234231",
+                "PostalCode": "411021",
+                "State": "MH",
+                "Street": "TestExistingLead STreet"
+            },
+            {
+                "Company": "fssdfs",
+                "Email": "gdfgd@x.com",
+                "FirstName": "gvfgdf",
+                "Id": "00QDn000005sF0lMAE",
+                "Industry": "Agriculture",
+                "LastName": "gdg",
+                "LeadStatus": "New",
+                "Name": "gvfgdf gdg",
+                "Phone": "45535345"
+            },
+            {
+                "Company": "fsfsdf",
+                "Email": "sfsdf@x.com",
+                "FirstName": "sdfsdf",
+                "Id": "00QDn000005sF0gMAE",
+                "Industry": "Agriculture",
+                "LastName": "sdfdfs",
+                "LeadStatus": "New",
+                "Name": "sdfsdf sdfdfs"
+            },
+            {
+                "Company": "test123",
+                "Email": "a.b@v.com",
+                "FirstName": "LFstName",
+                "Id": "00QDn000002b0j6MAA",
+                "LastName": "LstName",
+                "LeadStatus": "New",
+                "Name": "LFstName LstName",
+                "Phone": "12312312"
+            },
+            {
+                "City": "Marlborough",
+                "Company": "3C Systems",
+                "Country": "United States",
+                "Email": "info@salesforce.com",
+                "FirstName": "John",
+                "Id": "00QDn000003RlcVMAS",
+                "Industry": "Aerospace & Defense",
+                "LastName": "Gardner",
+                "LeadStatus": "New",
+                "Name": "John Gardner",
+                "Phone": "(555) 555-1212",
+                "PostalCode": "1752",
+                "State": "Massachusetts",
+                "Street": "1 Boston Rd"
+            },
+            {
+                "City": "Hartford",
+                "Company": "Universal Technologies",
+                "Country": "United States",
+                "Email": "info@salesforce.com",
+                "FirstName": "Andy",
+                "Id": "00QDn000003RlcWMAS",
+                "Industry": "Aerospace & Defense",
+                "LastName": "Smith",
+                "LeadStatus": "New",
+                "Name": "Andy Smith",
+                "Phone": "(555) 555-1212",
+                "PostalCode": "6103",
+                "State": "Connecticut",
+                "Street": "Universal Building"
+            },
+            {
+                "City": "Hartford",
+                "Company": "BigLife Inc.",
+                "Country": "United States",
+                "Email": "info@salesforce.com",
+                "FirstName": "Jim",
+                "Id": "00QDn000003RlcXMAS",
+                "Industry": "Insurance",
+                "LastName": "Steele",
+                "LeadStatus": "New",
+                "Name": "Jim Steele",
+                "Phone": "(555) 555-1212",
+                "PostalCode": "6156",
+                "State": "Connecticut",
+                "Street": "11 Farm Avenue"
+            }
+        ],
+        "omniProcessId": "a33Dn000000DuRQIA0",
+        "productList": null,
+        "timeStamp": "2023-05-08T08:54:04.090Z",
+        "updatedJson": {
+            "City": "ExistinLeadStatus1",
+            "Company": "ExistinLeadStatus1",
+            "Country": "ExistinLeadStatus1",
+            "Email": "existinleadstatus1@x.com",
+            "FirstName": "ExistinLeadStatus1",
+            "Id": "00QDn000008E0RaMAK",
+            "Industry": "Agriculture",
+            "LastName": "ExistinLeadStatus1",
+            "LeadStatus": "New",
+            "Name": "ExistinLeadStatus1 ExistinLeadStatus1",
+            "Phone": "2313132312",
+            "PostalCode": "121212",
+            "State": "ExistinLeadStatus1",
+            "Street": "ExistinLeadStatus1 Street",
+            "checked": true,
+            "originalIndex": "0"
+        },
+        "userCurrencyCode": "USD",
+        "userId": "005Dn000003MKJBIA4",
+        "userName": "priti_vaidya-26507732636@industryapps.com",
+        "userProfile": "System Administrator",
+        "userTimeZone": "-420",
+        "userTimeZoneName": "America/Los_Angeles",
+        "vlcTimeTracking": {
+            "CreateLeadDR": 797,
+            "FetchLeadDetails": 379,
+            "LeadConversion": 1720,
+            "LeadCreation": 9987,
+            "LeadSelection": 8383,
+            "OmniScriptSessionToken": "94c22b33-2952-4923-94cc-7f037bb9544c",
+            "SetValues2": 0,
+            "SetValues4": 0,
+            "getExistingNewLeads": 472
+        }
+    }
+}

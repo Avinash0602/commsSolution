@@ -1,0 +1,28 @@
+{
+    "ContextId": null,
+    "Opportunity  Data": {
+        "AccountName": null,
+        "CloseDate": null,
+        "CloseDateVerification": null,
+        "Description": null,
+        "Messaging1": null,
+        "Next Step": null,
+        "Opportunity Name": null,
+        "PriceList": null,
+        "Stage": null,
+        "Type": null
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "CreateQuote": null,
+        "DataRaptorPostAction1": null,
+        "LeadConversion": null,
+        "Opportunity  Data": null
+    }
+}

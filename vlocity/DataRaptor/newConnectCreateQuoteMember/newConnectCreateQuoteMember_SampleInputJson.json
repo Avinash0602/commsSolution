@@ -1,0 +1,77 @@
+{
+    "ConfirmationB2C": {
+    },
+    "ContextId": null,
+    "LeadCreation": {
+        "AddressInformation": {
+            "ServiceAddress-Block": {
+                "City": null,
+                "Country": null,
+                "ServiceAddress": null,
+                "State": null,
+                "Street": null,
+                "Zip": null
+            }
+        },
+        "BillingAddressInformation": {
+            "BillingAddress-Block": {
+                "BillingAddress": null,
+                "BillingCity": null,
+                "BillingCountry": null,
+                "BillingState": null,
+                "BillingStreet": null,
+                "BillingZip": null
+            }
+        },
+        "BillingProfile": {
+            "AccountPaymentType": null,
+            "BillDeliveryMethod": null,
+            "BillingEmailAddress": null,
+            "BillingFrequency": null
+        },
+        "BusinessInformation": {
+            "BusinessName": null,
+            "Industry": null
+        },
+        "ContactInformation": {
+            "Email": null,
+            "FirstName": null,
+            "LastName": null,
+            "PhoneNumber": null
+        },
+        "IsBillingAddressSame": null
+    },
+    "OpportunityData": {
+        "CloseDate": null,
+        "Description": null,
+        "NextStep": null,
+        "OpportunityName": null,
+        "PriceList": null,
+        "QuoteName": null,
+        "Stage": null,
+        "Type": null
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "ConfirmationB2C": null,
+        "CreateLeadDR": null,
+        "CreateQuoteMember": null,
+        "CreateTask": null,
+        "FetchLeadDetails": null,
+        "FetchRecordTypeId": null,
+        "LeadConversion": null,
+        "LeadCreation": null,
+        "NavigateAction2": null,
+        "OpportunityData": null,
+        "RemoteAction1": null,
+        "SetOpportunityName": null,
+        "SetValues2": null,
+        "UpdateAccountOpportunity": null
+    }
+}

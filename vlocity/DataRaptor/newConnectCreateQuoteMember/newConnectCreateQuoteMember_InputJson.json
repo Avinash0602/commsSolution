@@ -1,0 +1,82 @@
+{
+    "AccountId": "001Dn00000MsGfKIAV",
+    "ConfirmationB2C": {
+    },
+    "ContactId": "003Dn00000HxBx7IAF",
+    "ContextId": "00QDn000005sNvKMAU",
+    "DRId_%vlocity_namespace%__Premises__c": "a40Dn0000004yq9IAA",
+    "DRId_Account": "001Dn00000MsGfKIAV",
+    "DRId_Lead": "00QDn000005sNvKMAU",
+    "DRId_Opportunity": "006Dn000004eFgCIAU",
+    "DRId_Task": "00TDn00000HXoFWMA1",
+    "Lead": {
+        "Company": "TestTest3",
+        "LastName": "TestTest3",
+        "Status": "New"
+    },
+    "LeadCreation": {
+        "AddressInformation": {
+            "ServiceAddress-Block": {
+                "City": "Pune",
+                "Country": "India",
+                "State": "MH",
+                "Street": "TestTest3S",
+                "Zip": "411011"
+            }
+        },
+        "BillingAddressInformation": null,
+        "BillingProfile": {
+            "AccountPaymentType": "Prepaid",
+            "BillDeliveryMethod": "Paper Billing",
+            "BillingEmailAddress": null,
+            "BillingFrequency": "Weekly"
+        },
+        "BusinessInformation": {
+            "BusinessName": "TestTest3"
+        },
+        "ContactInformation": {
+            "Email": "TestTest3@x.com",
+            "FirstName": "TestTest3",
+            "LastName": "TestTest3",
+            "PhoneNumber": "43242342"
+        },
+        "IsBillingAddressSame": true
+    },
+    "OpportunityData": {
+        "CloseDate": "2023-03-30T18:30:00.000Z",
+        "OpportunityName": "New Business Opportunity for TestTest3",
+        "PriceList": "B2B Pricelist",
+        "QuoteName": "New Business Opportunity for TestTest3 Quote",
+        "Stage": "Prospecting",
+        "Type": "New Business"
+    },
+    "OpportunityId": "006Dn000004eFgCIAU",
+    "RecordTypeId": "012Dn000001Qva6IAC",
+    "SameBillingCity": "Pune",
+    "SameBillingCountry": "India",
+    "SameBillingState": "MH",
+    "SameBillingStreet": "TestTest3S",
+    "SameBillingZip": "411011",
+    "omniProcessId": "a33Dn000000DQuMIAW",
+    "quoteDetails": {
+        "messages": [
+        ],
+        "records": [
+            {
+                "Id": "0Q0Dn0000002m5NKAQ",
+                "Name": "New Business Opportunity for TestTest3 Quote",
+                "displaySequence": -1,
+                "messages": [
+                ]
+            }
+        ],
+        "totalSize": 1
+    },
+    "timeStamp": "2023-03-09T06:12:55.962Z",
+    "userCurrencyCode": "USD",
+    "userId": "005Dn000003MKJBIA4",
+    "userName": "priti_vaidya-26507732636@industryapps.com",
+    "userProfile": "System Administrator",
+    "userTimeZone": "-480",
+    "userTimeZoneName": "America/Los_Angeles"
+}

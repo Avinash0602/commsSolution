@@ -1,0 +1,191 @@
+{
+    "AccountId": "001Dn00000NjzCKIAZ",
+    "ConfirmationB2C": {
+    },
+    "ContactId": "003Dn00000IJalHIAT",
+    "ContextId": "00QDn000005sd4PMAQ",
+    "DRId_%vlocity_namespace%__Premises__c": "a40Dn0000004yuyIAA",
+    "DRId_%vlocity_namespace%__ServicePoint__c": "a4vDn0000022LlGIAU",
+    "DRId_Account": "001Dn00000NjzCKIAZ",
+    "DRId_Lead": "00QDn000005sd4PMAQ",
+    "DRId_Opportunity": "006Dn000008mKnlIAE",
+    "DRId_Task": "00TDn00000HYeMVMA1",
+    "Lead": {
+        "Company": "AccountCreate8",
+        "LastName": "AccountCreate8",
+        "Lead_Type__c": "Business",
+        "Status": "New"
+    },
+    "LeadCreation": {
+        "AddressInformation": {
+            "ServiceAddress-Block": {
+                "City": "Nagpur",
+                "Country": "India",
+                "State": "MH",
+                "Street": "AccountCreate8",
+                "Zip": "440001"
+            }
+        },
+        "BillingAddressInformation": {
+            "BillingAddress-Block": {
+                "BillingCity": "Pune",
+                "BillingCountry": "India",
+                "BillingState": "MH",
+                "BillingStreet": "AccountCreate8 Billing",
+                "BillingZip": "411021"
+            }
+        },
+        "BillingProfile": {
+            "AccountPaymentType": "Prepaid",
+            "BillDeliveryMethod": "Paper Billing",
+            "BillingEmailAddress": null,
+            "BillingFrequency": "Weekly"
+        },
+        "BusinessInformation": {
+            "BusinessName": "AccountCreate8",
+            "Industry": "Agriculture"
+        },
+        "ContactInformation": {
+            "Email": "AccountCreate8@x.com",
+            "FirstName": "AccountCreate8",
+            "LastName": "AccountCreate8",
+            "PhoneNumber": "23423423"
+        },
+        "IsBillingAddressSame": false
+    },
+    "LeadSelection": {
+        "CustomLWC1": null,
+        "PleaseSelectAction": "Create New Lead"
+    },
+    "OpportunityData": {
+        "CloseDate": "2023-03-16T18:30:00.000Z",
+        "OpportunityName": "New Business Opportunity for AccountCreate8",
+        "PriceList": "B2B Pricelist",
+        "QuoteName": "New Business Opportunity for AccountCreate8 Quote",
+        "Stage": "Prospecting",
+        "Type": "New Business"
+    },
+    "OpportunityId": "006Dn000008mKnlIAE",
+    "QuoteId": null,
+    "SameBillingCity": "Pune",
+    "SameBillingCountry": "India",
+    "SameBillingState": "MH",
+    "SameBillingStreet": "AccountCreate8 Billing",
+    "SameBillingZip": "411021",
+    "newLeads": [
+        {
+            "City": "TestLead1",
+            "Company": "TestLead1",
+            "Country": "TestLead1",
+            "Email": "testlead1@gmail.com",
+            "FirstName": "TestLead1",
+            "Id": "00QDn000005sXyyMAE",
+            "Industry": "Agriculture",
+            "LastName": "TestLead1",
+            "LeadStatus": "New",
+            "Name": "TestLead1 TestLead1",
+            "Phone": "1111111111",
+            "PostalCode": "121212",
+            "State": "TestLead1",
+            "Street": "TestLead1 Street"
+        },
+        {
+            "Company": "jsgdfsgj",
+            "Email": "sdgfjsd@x.com",
+            "FirstName": "gjsdfgj",
+            "Id": "00QDn000005sF0qMAE",
+            "LastName": "gjjjjhgj",
+            "LeadStatus": "New",
+            "Name": "gjsdfgj gjjjjhgj",
+            "Phone": "687698"
+        },
+        {
+            "Company": "fssdfs",
+            "Email": "gdfgd@x.com",
+            "FirstName": "gvfgdf",
+            "Id": "00QDn000005sF0lMAE",
+            "Industry": "Agriculture",
+            "LastName": "gdg",
+            "LeadStatus": "New",
+            "Name": "gvfgdf gdg",
+            "Phone": "45535345"
+        },
+        {
+            "Company": "fsfsdf",
+            "Email": "sfsdf@x.com",
+            "FirstName": "sdfsdf",
+            "Id": "00QDn000005sF0gMAE",
+            "Industry": "Agriculture",
+            "LastName": "sdfdfs",
+            "LeadStatus": "New",
+            "Name": "sdfsdf sdfdfs"
+        },
+        {
+            "Company": "test123",
+            "Email": "a.b@v.com",
+            "FirstName": "LFstName",
+            "Id": "00QDn000002b0j6MAA",
+            "LastName": "LstName",
+            "LeadStatus": "New",
+            "Name": "LFstName LstName",
+            "Phone": "12312312"
+        },
+        {
+            "City": "Marlborough",
+            "Company": "3C Systems",
+            "Country": "United States",
+            "Email": "info@salesforce.com",
+            "FirstName": "John",
+            "Id": "00QDn000003RlcVMAS",
+            "Industry": "Aerospace & Defense",
+            "LastName": "Gardner",
+            "LeadStatus": "New",
+            "Name": "John Gardner",
+            "Phone": "(555) 555-1212",
+            "PostalCode": "1752",
+            "State": "Massachusetts",
+            "Street": "1 Boston Rd"
+        },
+        {
+            "City": "Hartford",
+            "Company": "Universal Technologies",
+            "Country": "United States",
+            "Email": "info@salesforce.com",
+            "FirstName": "Andy",
+            "Id": "00QDn000003RlcWMAS",
+            "Industry": "Aerospace & Defense",
+            "LastName": "Smith",
+            "LeadStatus": "New",
+            "Name": "Andy Smith",
+            "Phone": "(555) 555-1212",
+            "PostalCode": "6103",
+            "State": "Connecticut",
+            "Street": "Universal Building"
+        },
+        {
+            "City": "Hartford",
+            "Company": "BigLife Inc.",
+            "Country": "United States",
+            "Email": "info@salesforce.com",
+            "FirstName": "Jim",
+            "Id": "00QDn000003RlcXMAS",
+            "Industry": "Insurance",
+            "LastName": "Steele",
+            "LeadStatus": "New",
+            "Name": "Jim Steele",
+            "Phone": "(555) 555-1212",
+            "PostalCode": "6156",
+            "State": "Connecticut",
+            "Street": "11 Farm Avenue"
+        }
+    ],
+    "omniProcessId": "a33Dn000000DWZLIA4",
+    "timeStamp": "2023-03-15T14:23:19.644Z",
+    "updatedJson": "",
+    "userCurrencyCode": "USD",
+    "userId": "005Dn000003MKJBIA4",
+    "userName": "priti_vaidya-26507732636@industryapps.com",
+    "userProfile": "System Administrator",
+    "userTimeZone": "-420",
+    "userTimeZoneName": "America/Los_Angeles"
+}

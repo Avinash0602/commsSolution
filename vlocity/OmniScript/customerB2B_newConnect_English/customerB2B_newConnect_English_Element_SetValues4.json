@@ -1,0 +1,55 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "newConnectB2BGuidedJourney",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/customerB2B/newConnect/English",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "elementValueMap": {
+            "BusinessName": "=IF(%updatedJson:Company%<>null, %updatedJson:Company%,' ')",
+            "City": "=IF(%updatedJson:City%<>null, %updatedJson:City%,' ')",
+            "Country": "=IF(%updatedJson:Country%<>null, %updatedJson:Country%,' ')",
+            "DRId_Lead": "%updatedJson:Id%",
+            "Email": "=IF(%updatedJson:Email%<>null, %updatedJson:Email%,null)",
+            "FirstName": "=IF(%updatedJson:FirstName%<>null, %updatedJson:FirstName%,' ')",
+            "Industry": "=IF(%updatedJson:Industry%<>null, %updatedJson:Industry%,' ')",
+            "LastName": "=IF(%updatedJson:LastName%<>null, %updatedJson:LastName%,' ')",
+            "PhoneNumber": "=IF (%updatedJson:Phone%<>null, (%updatedJson:Phone%),null)",
+            "State": "=IF(%updatedJson:State%<>null, %updatedJson:State%,' ')",
+            "Street": "=IF(%updatedJson:Street%<>null, %updatedJson:Street%,' ')",
+            "Zip": "=IF(%updatedJson:PostalCode%<>null, %updatedJson:PostalCode%,' ')"
+        },
+        "label": "SetValues4",
+        "message": {
+        },
+        "pubsub": false,
+        "show": {
+            "group": {
+                "operator": "AND",
+                "rules": [
+                    {
+                        "condition": "=",
+                        "data": "Select Existing Non-Qualified Lead",
+                        "field": "PleaseSelectAction"
+                    }
+                ]
+            }
+        },
+        "showPersistentComponent": [
+            true,
+            false
+        ],
+        "ssm": false,
+        "wpm": false
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "Name": "SetValues4",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/customerB2B/newConnect/English/SetValues4"
+}

@@ -1,0 +1,7 @@
+[
+    "DataRaptor/CreateLeadDR",
+    "DataRaptor/FetchRecordTypeId",
+    "DataRaptor/getExistingNewLeads",
+    "DataRaptor/newConnectCreateQuoteMember",
+    "IntegrationProcedure/newConnect_QuoteCreation"
+]

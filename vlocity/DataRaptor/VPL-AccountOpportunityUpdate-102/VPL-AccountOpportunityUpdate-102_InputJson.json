@@ -1,0 +1,32 @@
+{
+    "ContextId": "00Q0b00001XoEw4",
+    "DRId_Account": "0010b00002BhumOAAR",
+    "DRId_Opportunity": "0060b00000nzQiFAAU",
+    "DRId_Quote": "0Q00b000000guzQCAQ",
+    "DRId_Task": "00T0b00006KVtXFEA1",
+    "OpportunityData": {
+        "AccountName": "fdsf sfd fds",
+        "CloseDate": "2018-08-30T18:30:00.000Z",
+        "CloseDateVerification": true,
+        "Description": "fds fds fdsf",
+        "Messaging1": true,
+        "NextStep": "dsfds",
+        "OpportunityName": "fdsfds",
+        "PriceList": "a3O0b000000ZISfEAO",
+        "QuoteName": "fdsfdsQuote",
+        "Stage": "Qualification",
+        "Type": "New Business"
+    },
+    "error": "OK",
+    "id": "a1I0b00000BbSj1EAF",
+    "layout": "lightning",
+    "testContextId": "00Q0b00001XoEw4",
+    "timeStamp": "2018-08-24T10:33:53.109Z",
+    "userCurrencyCode": "USD",
+    "userId": "0050b0000031pALAAY",
+    "userName": "leninkusa@vdo.cmt.1534408707531",
+    "userProfile": "System Administrator",
+    "userTimeZone": -420,
+    "vlcPersistentComponent": {
+    }
+}

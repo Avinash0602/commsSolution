@@ -1,0 +1,40 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "VPL LeadConversion B2B 102-1",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/VPL 102/Lead Conversion/English",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "VPL LeadConversion B2B 102-1",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/VPL 102/Lead Conversion/English",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "ConfirmationB2C",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/VPL 102/Lead Conversion/English/ConfirmationB2C",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "ConfirmationB2C",
+    "%vlocity_namespace%__ParentElementType__c": "Step",
+    "%vlocity_namespace%__PropertySet__c": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "dataJSON": false,
+        "disOnTplt": false,
+        "label": "ConfirmationMessage",
+        "sanitize": false,
+        "show": null,
+        "text": "<p>Successfully created below records:</p>\n<p>Account : <a href=\"/%DRId_Account%\" target=\"_blank\" rel=\"noopener\">%DRId_Account%</a></p>\n<p>Contact : <a href=\"/%ContactId%\" target=\"_blank\" rel=\"noopener\">%ContactId%</a></p>\n<p>Opportunity : <a href=\"/%DRId_Opportunity%\" target=\"_blank\" rel=\"noopener\">%DRId_Opportunity%</a></p>\n<p>Task : <a href=\"/%DRId_Task%\" target=\"_blank\" rel=\"noopener\">%DRId_Task%</a></p>",
+        "textKey": ""
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": true,
+    "%vlocity_namespace%__Type__c": "Text Block",
+    "Name": "ConfirmationMessage",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/VPL 102/Lead Conversion/English/ConfirmationMessage"
+}

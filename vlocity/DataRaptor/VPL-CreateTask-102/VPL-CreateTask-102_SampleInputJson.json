@@ -1,0 +1,39 @@
+{
+    "AccountId": "0010b00002BhupSAAR",
+    "ContextId": "00Q0b00001Y9au5",
+    "DRId_Account": "0010b00002BhupXAAR",
+    "DRId_Opportunity": "0060b00000nzQioAAE",
+    "DRId_Quote": "0Q00b000000guzaCAA",
+    "DRId_Task": "00T0b00006KVtYrEAL",
+    "EmailAction1": {
+        "Errors": [
+        ],
+        "Success": true
+    },
+    "OpportunityData": {
+        "AccountName": "Sjak jldskd",
+        "CloseDate": "2018-08-30T18:30:00.000Z",
+        "CloseDateVerification": true,
+        "Description": "sd fksdlfklds",
+        "Messaging1": true,
+        "NextStep": "Qulifiy",
+        "OpportunityName": "Oppr - Lenin",
+        "PriceList": "a3O0b000000ZISfEAO",
+        "QuoteName": "Oppr - LeninQuote",
+        "Stage": "Needs Analysis",
+        "Type": "New Business"
+    },
+    "OpportunityId": "0060b00000nzQijAAE",
+    "error": "OK",
+    "id": "a1I0b00000BbSj1EAF",
+    "layout": "lightning",
+    "testContextId": "00Q0b00001Y9au5",
+    "timeStamp": "2018-08-24T10:46:13.752Z",
+    "userCurrencyCode": "USD",
+    "userId": "0050b0000031pALAAY",
+    "userName": "leninkusa@vdo.cmt.1534408707531",
+    "userProfile": "System Administrator",
+    "userTimeZone": -420,
+    "vlcPersistentComponent": {
+    }
+}

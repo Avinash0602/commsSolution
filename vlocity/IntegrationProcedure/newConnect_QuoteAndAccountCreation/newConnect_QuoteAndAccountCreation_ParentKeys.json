@@ -1,0 +1,8 @@
+[
+    "DataRaptor/DRGetQuoteLineItems",
+    "DataRaptor/DRUpdateBillingAccountQLI",
+    "DataRaptor/FetchRecordTypeId",
+    "DataRaptor/newConnectCreateAccountHierarchy",
+    "DataRaptor/newConnectCreateQuoteMember",
+    "DataRaptor/newConnectUpdateQuoteFields"
+]

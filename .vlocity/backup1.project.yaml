@@ -1,0 +1,27 @@
+Name: backup1
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - DataRaptor/DRNewConnectUpdateLead
+    - DataRaptor/newConnectCreateAccountHierarchy
+    - DataRaptor/newConnectCreateQuoteMember
+    - DataRaptor/newConnectCreateServicePoint
+    - DataRaptor/newConnectFetchProducts
+    - DataRaptor/newConnectGetOpportunities
+    - DataRaptor/newConnectUpdateAccountOpportunity
+    - DataRaptor/newConnectUpdateQuoteFields
+    - DataRaptor/newConnectUpdateQuoteLineItems
+    - OmniScript/customer_newConnect_English
+    - OmniScript/customerB2B_newConnect_English
+    - IntegrationProcedure/newConnect_fetchDataFromOpportunity
+    - IntegrationProcedure/newConnect_FetchRecommededProducts
+    - IntegrationProcedure/newConnect_FetchResumableOpportunity
+    - IntegrationProcedure/newConnect_QuoteAndAccountCreation
+    - IntegrationProcedure/newConnect_QuoteCreation
+VlocityTypesToFetch:
+    - DataRaptor
+    - IntegrationProcedure
+    - OmniScript
+SalesforceTypesToFetch:
+    - ApexClass
+    - ApprovalProcess
+    - Flow

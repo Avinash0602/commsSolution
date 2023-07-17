@@ -1,0 +1,73 @@
+{
+    "AccountId": "001Dn00000NChlcIAD",
+    "ConfirmationB2C": {
+    },
+    "ContactId": "003Dn00000HxC2pIAF",
+    "ContextId": "00QDn000005sNxlMAE",
+    "DRId_%vlocity_namespace%__Premises__c": "a40Dn0000004yqXIAQ",
+    "DRId_Account": "001Dn00000NChlcIAD",
+    "DRId_Lead": "00QDn000005sNxlMAE",
+    "DRId_Opportunity": "006Dn000004eFgEIAU",
+    "DRId_Task": "00TDn00000HXrZRMA1",
+    "Lead": {
+        "Company": "MSQ5",
+        "LastName": "MSQ5",
+        "Status": "New"
+    },
+    "LeadCreation": {
+        "AddressInformation": {
+            "ServiceAddress-Block": {
+                "City": "MSQ5",
+                "Country": "MSQ5",
+                "State": "MSQ5",
+                "Street": "MSQ5",
+                "Zip": "121212"
+            }
+        },
+        "BillingAddressInformation": null,
+        "BillingProfile": {
+            "AccountPaymentType": "Prepaid",
+            "BillDeliveryMethod": "Paper Billing",
+            "BillingEmailAddress": null,
+            "BillingFrequency": "Weekly"
+        },
+        "BusinessInformation": {
+            "BusinessName": "MSQ5"
+        },
+        "ContactInformation": {
+            "Email": "MSQ5@x.com",
+            "FirstName": "MSQ5",
+            "LastName": "MSQ5",
+            "PhoneNumber": "3422342"
+        },
+        "IsBillingAddressSame": true
+    },
+    "OpportunityData": {
+        "CloseDate": "2023-03-30T18:30:00.000Z",
+        "OpportunityName": "New Business Opportunity for MSQ5",
+        "PriceList": "B2B Pricelist",
+        "QuoteName": "New Business Opportunity for MSQ5 Quote",
+        "Stage": "Prospecting",
+        "Type": "New Business"
+    },
+    "OpportunityId": "006Dn000004eFgEIAU",
+    "RecordTypeId": "012Dn000001Qva2IAC",
+    "SameBillingCity": "MSQ5",
+    "SameBillingCountry": "MSQ5",
+    "SameBillingState": "MSQ5",
+    "SameBillingStreet": "MSQ5",
+    "SameBillingZip": "121212",
+    "omniProcessId": "a33Dn000000DWYmIAO",
+    "result": {
+        "error": "Class not found: RACreateMasterQuote",
+        "errorCode": "INVOKECLASS-404"
+    },
+    "success": false,
+    "timeStamp": "2023-03-09T08:25:19.435Z",
+    "userCurrencyCode": "USD",
+    "userId": "005Dn000003MKJBIA4",
+    "userName": "priti_vaidya-26507732636@industryapps.com",
+    "userProfile": "System Administrator",
+    "userTimeZone": "-480",
+    "userTimeZoneName": "America/Los_Angeles"
+}

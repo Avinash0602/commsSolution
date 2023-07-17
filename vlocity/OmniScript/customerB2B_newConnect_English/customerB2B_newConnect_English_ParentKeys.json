@@ -1,0 +1,11 @@
+[
+    "DataRaptor/CreateLeadDR",
+    "DataRaptor/FetchRecordTypeId",
+    "DataRaptor/getExistingNewLeads",
+    "DataRaptor/newConnectCreateQuoteMember",
+    "IntegrationProcedure/b2bExpress_AddProductToCart",
+    "IntegrationProcedure/newConnect_FetchRecommededProducts",
+    "IntegrationProcedure/newConnect_QuoteAndAccountCreation",
+    "IntegrationProcedure/newConnect_QuoteCreation",
+    "IntegrationProcedure/newConnect_fetchDataFromOpportunity"
+]

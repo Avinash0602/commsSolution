@@ -1,0 +1,45 @@
+{
+    "Consumer Details": {
+        "Billing Address": {
+            "Billing City": null,
+            "Billing Profile": {
+                "Account Payment  Type": null,
+                "Bill Deliver Method": null,
+                "Billing Frequency": null,
+                "Enable Auto Pay": null
+            },
+            "Billing State": null,
+            "Billing Street": null,
+            "Country": null,
+            "ZiP Code": null
+        }
+    },
+    "ContextId": null,
+    "Opportunity  Data": {
+        "AccountName": null,
+        "CloseDate": null,
+        "CloseDateVerification": null,
+        "Description": null,
+        "Messaging1": null,
+        "Next Step": null,
+        "Opportunity Name": null,
+        "PriceList": null,
+        "Stage": null,
+        "Step": null
+    },
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "Consumer Details": null,
+        "DataRaptorExtractAction1": null,
+        "DataRaptorPostAction1": null,
+        "Opportunity  Data": null,
+        "RemoteAction1": null,
+        "RemoteAction2": null
+    }
+}
