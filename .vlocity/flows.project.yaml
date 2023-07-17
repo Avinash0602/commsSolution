@@ -1,0 +1,10 @@
+Name: flows
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - flows/AutoOrderCreationandSubmission.flow
+    - flows/CreateContrac.flow
+    - flows/V8Invoke_IP.flow
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - Flow
